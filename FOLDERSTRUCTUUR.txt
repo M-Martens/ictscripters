@@ -1,0 +1,13 @@
+FOLDERSTRUCTUUR;
+
+/root [alle php bestanden]
+	style [CSS bestanden]
+		-lib [Alle css files for libraries of frameworks]
+	img [Alle foto's, sprites etc.]
+	js [Alle javascript files]
+		-lib [alle javascript libraries zoals jQuery etc.]
+	functions [functies met objects (OOP)]
+	includes [database configuratie etc.]
+	pages [error pages zoals 404, 500, 503 etc.]
+
+duidelijk genoeg lijkt mij?
